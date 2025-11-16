@@ -8,18 +8,17 @@
 
 ```
 Tugas-Multimedia/
-├─ audio/
+├─ Exercise-Audio/
 ├─ Worksheet-1/
 ├─ Worksheet-2/
-├─ 122140029_Exercise_Audio.ipynb
-├─ 122140029_Exercise_Audio.pdf
+├─ Worksheet-4-Image/
 └─ README.md
 ```
 
 Keterangan:
 
-- Folder `audio/` berisi dataset audio untuk kebutuhan tugas **Exercise_Audio**.
-- **Worksheet-x** berisi file hasil pengerjaan tugas
+- **Worksheet-x** berisi file hasil pengerjaan tugas hands-on
+- **Exercise-Audio** berisi file hasil pengerjaan tugas hands-on Audio
 
 ---
 
