@@ -9,6 +9,7 @@
 ```
 Tugas-Multimedia/
 ├─ Exercise-Audio/
+├─ rPPG/
 ├─ Worksheet-1/
 ├─ Worksheet-2/
 ├─ Worksheet-4-Image/
@@ -19,6 +20,7 @@ Keterangan:
 
 - **Worksheet-x** berisi file hasil pengerjaan tugas hands-on
 - **Exercise-Audio** berisi file hasil pengerjaan tugas hands-on Audio
+- **rPPG** berisi file hasil pengerjaan tugas hands-on rPPG
 
 ---
 
