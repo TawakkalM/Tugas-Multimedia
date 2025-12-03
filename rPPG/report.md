@@ -1,5 +1,9 @@
 # Laporan Singkat Implementasi Real-time rPPG
 
+Mata Kuliah: Sistem & Teknologi Multimedia
+Nama: Tawakkal Rabbani Muhammad
+NIM: 122140029
+
 ### 1. Pustaka (Library) yang Digunakan
 
 Berikut adalah beberapa library yang saya gunakan untuk membuat program ini:
@@ -17,3 +21,7 @@ Data sinyal mentah tersebut dikumpulkan dalam sebuah _sliding window_ (buffer) a
 ### 3. Aspek Pembeda dengan Demo di Kelas
 
 Aspek pembeda dalam implementasi ini adalah **Visualisasi Grafik Sinyal Real-time**, kemudian juga menampilkan **Grafik Gelombang Sinyal** yang ditampilkan pada layar pojok kiri bawah. Selanjutnya memilih _area dahi tengah_ sebagai perhitungan **rata-rata ROI**. Selain itu, penggunaan **MediaPipe Face Mesh** memberikan stabilitas ROI yang jauh lebih baik dibandingkan metode deteksi wajah kotak biasa.
+
+### 4. Credit
+
+1. Link Gemini: https://gemini.google.com/share/b3ae5c407102
