@@ -1,8 +1,8 @@
 # Laporan Singkat Implementasi Real-time rPPG
 
-Mata Kuliah: Sistem & Teknologi Multimedia
-Nama: Tawakkal Rabbani Muhammad
-NIM: 122140029
+**Mata Kuliah**: Sistem & Teknologi Multimedia  
+**Nama**: Tawakkal Rabbani Muhammad  
+**NIM**: 122140029  
 
 ### 1. Pustaka (Library) yang Digunakan
 
